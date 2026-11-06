@@ -201,3 +201,6 @@ This repository serves as the official landing page for ESET Uninstaller. The so
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ESET Uninstaller today!**
+
+---
+**Last updated:** 2026-11-06 03:15:09 UTC
