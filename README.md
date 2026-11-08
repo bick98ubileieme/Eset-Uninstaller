@@ -203,4 +203,4 @@ This repository serves as the official landing page for ESET Uninstaller. The so
 **Get the most recent version of ESET Uninstaller today!**
 
 ---
-**Last updated:** 2026-11-08 15:49:42 UTC
+**Last updated:** 2026-11-08 20:14:52 UTC
